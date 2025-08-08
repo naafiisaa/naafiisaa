@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://i.postimg.cc/2Vb4r44q/HB7-JJYas-XQ.gif" width="700" alt="Banner">
+  <img src="https://i.ibb.co/90btG1c/Black-and-Yellow-Web-Developer-Linked-In-Banner.png" alt="Web Developer Banner" width="800" />
 </p>
-
 
 <h1 align="center">Hi 👋, I'm Nafisa Chowdhury</h1>
 <h3 align="center">Frontend Developer| Web Developer</h3>
