@@ -1,4 +1,7 @@
-![Banner](https://i.ibb.co/7tXh2Hn1/Chat-GPT-Image-Aug-8-2025-06-21-06-PM.png)
+<p align="center">
+  <img src="https://i.ibb.co/7tXh2Hn1/Chat-GPT-Image-Aug-8-2025-06-21-06-PM.png" alt="Banner" width="380" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Nafisa Chowdhury</h1>
 <h3 align="center">Frontend Developer| Web Developer</h3>
 <p>I’m a web developer focused on building performant and accessible user interfaces. I enjoy learning new JS frameworks and turning designs into interactive, responsive sites. I recently finished several projects involving React, Firebase and Node.js.</p>
