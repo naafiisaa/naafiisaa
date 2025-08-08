@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/7tXh2Hn1/Chat-GPT-Image-Aug-8-2025-06-21-06-PM.png" alt="Banner" width="380" />
+  <img src="https://i.ibb.co.com/90btG1c/Black-and-Yellow-Web-Developer-Linked-In-Banner.png" alt="Banner"  />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nafisa Chowdhury</h1>
