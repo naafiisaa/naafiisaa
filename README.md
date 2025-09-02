@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/90btG1c/Black-and-Yellow-Web-Developer-Linked-In-Banner.png" alt="Web Developer Banner" width="800" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Nafisa Chowdhury</h1>
+<h1 align="center">Hi 👋, I'm Nafisa Begum Chowdhury</h1>
 <h3 align="center">Frontend Developer| Web Developer | Full Stack Developer</h3>
 <p>I’m a web developer focused on building performant and accessible user interfaces. I enjoy learning new JS frameworks and turning designs into interactive, responsive sites. I recently finished several projects involving React, Firebase and Node.js.</p>
 
