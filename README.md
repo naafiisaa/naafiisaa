@@ -59,8 +59,8 @@ Tools & DevOps
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:nafisac45@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+ <a href="mailto:nafisac45@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
 
   <!-- WhatsApp -->
