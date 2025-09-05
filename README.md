@@ -5,7 +5,29 @@
 <h1 align="center">Hi 👋, I'm Nafisa Begum Chowdhury</h1>
 <h3 align="center">Frontend Developer| Web Developer | Full Stack Developer</h3>
 <p>I’m a web developer focused on building performant and accessible user interfaces. I enjoy learning new JS frameworks and turning designs into interactive, responsive sites. I recently finished several projects involving React, Firebase and Node.js.</p>
+<p align="left" style="display: flex; gap: 15px;">
 
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/nafisa7" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/naafiisaa" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+
+  <!-- Gmail -->
+ <a href="mailto:nafisac45@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="30" width="40" />
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/8801789403019" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+  </a>
+
+</p>
 <h1>Current Activities</h1>
 
 🌱 I am exploring Next.js.
