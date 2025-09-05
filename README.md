@@ -45,12 +45,29 @@ Tools & DevOps
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naafiisaa" alt="naafiisaa" /></a> </p>
 
 
-<h1>Connect with me:</h3>
-<p align="flex gap-4">
-<a href="https://linkedin.com/in/nafisa7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafisa7" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/nafisa7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafisa7" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/nafisa7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafisa7" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/nafisa7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafisa7" height="30" width="40" /></a>
+<h1>Connect with me:</h1>
+<p align="left" style="display: flex; gap: 15px;">
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/nafisa7" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/naafiisaa" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:nafisac45@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/8801789403019" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+  </a>
+
 </p>
 
 
